@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarshhh&theme=dark)](https://github.com/Aarshhh/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshhh&hide_progress=true)](https://github.com/Aarshhh/github-readme-stats)
+
