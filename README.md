@@ -14,19 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A third year computer science student at VIT university. Currently focussing on NLP projects and problem-solving.</h3>
-
-- 🔭 I’m currently working on **text summarizer**
-
-- 🌱 I’m currently learning **DL frameworks**
-
-- 💁🏻‍♂️ I’m looking to collaborate on **research projects**
-
-- 🤝 I’m looking for help with **open-source**
-
-- 💬 Ask me about **ML-algorithms**
-
-- 📫 Reach me at **utkarshvarman@gmail.com**
+<h3 align="center">A final year computer science student at VIT university. Currently focussing on NLP projects and problem-solving.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
