@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/uplusv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uplusv" height="30" width="40" /></a>
 </p>
 
-### Top languages in commits card
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=nord_bright)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
