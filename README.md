@@ -42,7 +42,7 @@
 <!-- Most Used Languages -->
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-varman&langs_count=10&layout=compact&theme=radical" alt="Most Used Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshhh&langs_count=10&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 <p align="left">
