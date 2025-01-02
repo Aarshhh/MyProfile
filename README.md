@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Utkarsh !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<h3 align="center">A final year computer science student at VIT university. Currently focussing on NLP projects and problem-solving.</h3>
+<h3 align="center">A final year computer science student at Vellore Institute of Technology, Chennai. I am interested in working at the intersection of machine learning and web development.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aarshhh&color=brightgreen" alt="Profile Views"/>
