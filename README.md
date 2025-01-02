@@ -14,8 +14,6 @@
 </p>
 
 <h3 align="left">
-  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-  <dotlottie-player src="https://lottie.host/a72043b4-1321-4137-aac0-653d20917f7f/gvrgpXck6u.lottie" background="transparent" speed="1" style="width: 50px; height: 50px; display:inline-block;" loop autoplay></dotlottie-player>
   Skills:
 </h3>
 <p>
