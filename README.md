@@ -10,8 +10,7 @@
 </p>
 
 <h3 align="left">
-  Skills
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZwM2RjeGFjbWw3MG1vOXZ3NGdpeGdyMnZlemJxMXNubGR4MXN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5R59PXWyn4LldoSSH3/giphy.gif" width="70" height="70" style="display:inline-block; vertical-align:middle;" />
+  Skills<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZwM2RjeGFjbWw3MG1vOXZ3NGdpeGdyMnZlemJxMXNubGR4MXN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5R59PXWyn4LldoSSH3/giphy.gif" width="70" height="70"/>
 </h3>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/></a>
