@@ -9,7 +9,7 @@
 <a href="https://www.leetcode.com/uplusv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><span>&lt;/&gt;</span> Skills:</h3>
+<h3 align="left">Skills <span>&lt;/&gt;</span>:</h3>
 
 <p>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/></a>
