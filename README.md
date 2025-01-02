@@ -34,10 +34,10 @@
 </p>
 
 
-<h3 align="left">GitHub Stats:</h3>
+<!--<h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarshhh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
-</p>
+</p> -->
 
 <!-- Most Used Languages -->
 <h3 align="left">Most Used Languages:</h3>
