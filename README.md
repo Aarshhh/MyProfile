@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
+<h1 align="center">Hi, I'm Utkarsh !👋</h1>
 <h3 align="center">A final year computer science student at VIT university. Currently focussing on NLP projects and problem-solving.</h3>
 
 <p align="left">
