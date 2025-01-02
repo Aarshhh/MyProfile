@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A final year computer science student at VIT university. I am interested in working at the intersection of machine learning and web development to develop end-to-end solutions.</h3>
+<h3 align="center">A final year computer science student at Vellore Institute of Technology. I am interested in working at the intersection of machine learning and web development to develop end-to-end solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
