@@ -36,7 +36,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh-varman&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarshhh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Most Used Languages -->
