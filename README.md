@@ -3,7 +3,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aarshhh&color=brightgreen" alt="Profile Views"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aarshhh.visitor-badge" alt="Visitors"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
