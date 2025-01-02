@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A final year computer science student at VIT university. Currently focussing on NLP projects and problem-solving.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aarshhh&color=brightgreen" alt="Profile Views"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Aarshhh.visitor-badge" alt="Visitors"/>
