@@ -36,4 +36,6 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshhh&hide_progress=true&)](https://github.com/Aarshhh/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshhh&layout=pie)](https://github.com/Aarshhh)
+[![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Aarshhh&bg_color=ffffff&color=2697FF&line=2962FF&point=FFD700)](https://github.com/Aarshhh)
+
