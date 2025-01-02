@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Utkarsh !👋</h1>
+<h1 align="center">Hi, I'm Utkarsh !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">A final year computer science student at VIT university. Currently focussing on NLP projects and problem-solving.</h3>
 
 <p align="left">
