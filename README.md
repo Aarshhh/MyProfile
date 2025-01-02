@@ -36,5 +36,3 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 </p>
 
-[![GitHub Contribution Grid](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aarshhh&theme=default)](https://github.com/Aarshhh)
-
