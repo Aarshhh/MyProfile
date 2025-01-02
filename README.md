@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Utkarsh !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="left">Hi, I'm Utkarsh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="left">A final year computer science student at Vellore Institute of Technology, Chennai. I am interested in working at the intersection of machine learning and web development.</h3>
 
 <h3 align="left">Connect with me:</h3>
